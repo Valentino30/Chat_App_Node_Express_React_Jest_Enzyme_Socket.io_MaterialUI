@@ -1,7 +1,7 @@
 import React from "react";
 import { makeStyles } from "@material-ui/core/styles";
 import { Container } from "@material-ui/core";
-import ButtonLink from "../ButtonLink/ButtonLink";
+import ButtonLink from "./ButtonLink";
 
 const useStyles = makeStyles((theme) => ({
   container: {

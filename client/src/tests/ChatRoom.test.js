@@ -1,6 +1,7 @@
 import React from "react";
 import { shallow } from "enzyme";
-import ChatRoom from "./ChatRoom";
+
+import ChatRoom from "../containers/ChatRoom";
 
 describe("ChatRoom Component", () => {
   it("Should render without errors", () => {

@@ -1,6 +1,7 @@
 import React from "react";
 import { shallow } from "enzyme";
-import MessagesList from "./MessagesList";
+
+import MessagesList from "../components/MessagesList";
 
 describe("MessagesList Component", () => {
   let component;

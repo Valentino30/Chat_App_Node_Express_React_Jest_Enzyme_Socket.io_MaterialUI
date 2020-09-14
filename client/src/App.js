@@ -1,8 +1,8 @@
 import "./App.css";
 import React from "react";
-import Home from "./components/Home/Home";
-import Auth from "./containers/Auth/Auth";
-import ChatRoom from "./containers/ChatRoom/ChatRoom";
+import Home from "./components/Home";
+import Auth from "./containers/Auth";
+import ChatRoom from "./containers/ChatRoom";
 import {
   BrowserRouter as Router,
   Switch,
